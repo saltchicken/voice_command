@@ -2,4 +2,4 @@
 
 This is a basic example of using your android phone's voice recognition to send commands to a desktop computer. 
 
-TODO: WRite up detailed setup and instructions.
+TODO: Write up detailed setup and instructions.
